@@ -1,0 +1,6 @@
+2025-08-08 12:33:13 & C:/Users/jblev/AppData/Local/Programs/Python/Python313/python.exe c:/Users/jblev/Documents/JanethBlevins_python_challenges/bonus_challenges.py
+2025-08-08 12:43:43 & C:/Users/jblev/AppData/Local/Programs/Python/Python313/python.exe c:/Users/jblev/Documents/JanethBlevins_python_challenges/bonus_challenges.py
+2025-08-08 12:44:38 & C:/Users/jblev/AppData/Local/Programs/Python/Python313/python.exe c:/Users/jblev/Documents/JanethBlevins_python_challenges/bonus_challenges.py
+2025-08-08 12:48:14 Took a break and coffee.
+2025-08-08 12:49:33 Finished challenge 2!
+2025-08-08 12:52:59	Finished challenge 2!
